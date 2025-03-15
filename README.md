@@ -15,7 +15,7 @@ This project analyzes the **Zomato dataset** to uncover restaurant trends, custo
 - **Seaborn** – Statistical graphics  
 - **Jupyter Notebook** – Interactive data exploration  
 
-## Key Insights
-✅ Trends in online vs. offline restaurant services
-✅ Popular restaurant types based on customer preferences
-✅ Price ranges preferred by couples for dining out
+## 📊 Key Insights
+- ✅ Trends in **online vs. offline** restaurant services  
+- ✅ Popular **restaurant types** based on customer preferences  
+- ✅ Price ranges preferred by **couples** for dining out  
