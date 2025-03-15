@@ -19,4 +19,3 @@ This project analyzes the **Zomato dataset** to uncover restaurant trends, custo
 ✅ Trends in online vs. offline restaurant services
 ✅ Popular restaurant types based on customer preferences
 ✅ Price ranges preferred by couples for dining out
-
